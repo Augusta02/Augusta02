@@ -2,11 +2,11 @@
 
 ### Data Science and Web3
 
-I am Augusta from Lagos, Nigeria. I manage an NFT community as a Community Manager and Content Creator. I really enjoy learning programming languages and sharing my progress as a Data Scientist. I am a Web3 enthusiast, currently learning Blockchain technology and how a Data Scientist can be of value to revoluntary technology. 
+I am Augusta from Lagos, Nigeria. I am currently a Python/Data Science Instructor and also manage the DatafestAfrica community as a Community Manager and Wada Developer Community. I really enjoy learning programming languages and sharing my progress as a Data Scientist. I am a Web3 enthusiast, Recently, I have been focusing on Blockchain market analysis, utilizing my data analytical skills to understand the current trends and future possibilities in the field. 
 
-### Skills: Machine Learning / PYTHON / HTML / CSS
+### Skills: Data Analysis/ Machine Learning / PYTHON / HTML / CSS / SQL
 
-- 🌱 I’m currently learning SQL 
+
 - 👯 I’m looking to collaborate on Web 3 developers, Data Scientists, Data Engineers, and Machine Learning Engineers 
 - ⚡ Fun fact: I love art, history and play lawn tennis 
 
