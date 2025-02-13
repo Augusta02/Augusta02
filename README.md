@@ -7,7 +7,7 @@ I am Augusta from Lagos, Nigeria. I am currently a Python/Data Science Instructo
 ### Skills: Data Analysis/ Machine Learning / PYTHON / HTML / CSS / SQL
 
 
-- 👯 I’m looking to collaborate on  Data Scientists, Data Engineers, and Machine Learning Engineers 
+- 👯 I’m looking to collaborate with Data Scientists, Data Engineers, and Machine Learning Engineers 
 - ⚡ Fun fact: I love art, history and play lawn tennis 
 
 
